@@ -1,2 +1,2 @@
-# minha-primeira-animacao
-minha primeira animação usando o CANVA
+# minha primeira animacao
+desafio Git/Github: minha primeira animação usando o CANVA
